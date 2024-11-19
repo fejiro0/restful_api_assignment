@@ -1,0 +1,17 @@
+{
+  "name": "Famous",
+  "version": "1.0.0",
+  "description": "Restful api project with Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Famous"
+  ],
+  "author": "Famous",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
